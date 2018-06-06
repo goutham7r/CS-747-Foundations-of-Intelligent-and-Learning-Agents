@@ -1,0 +1,2411 @@
+Arm Pulled: 0
+ [0 0 0 0 0 ]       [0 0 0 0 0 ]       [0 0 0 0 0 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 1.
+
+Arm Pulled: 1
+ [0 0 0 0 0 ]       [1 0 0 0 0 ]       [0 0 0 0 0 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 2.
+
+Arm Pulled: 2
+ [0 0 0 0 0 ]       [1 1 0 0 0 ]       [0 0 0 0 0 ]
+Sending action 2.
+Received reward 1.
+Num of  pulls 3.
+
+Arm Pulled: 3
+ [0 0 1 0 0 ]       [1 1 0 0 0 ]       [0 0 0 0 0 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 4.
+
+Arm Pulled: 4
+ [0 0 1 1 0 ]       [1 1 0 0 0 ]       [0 0 0 0 0 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 5.
+
+Arm Pulled: 2
+ [0 0 1 1 0 ]       [1 1 0 0 1 ]       [0.984023 0.984023 1 1 0.984023 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 6.
+
+Arm Pulled: 3
+ [0 0 1 1 0 ]       [1 1 1 0 1 ]       [0.990351 0.990351 0.997582 1 0.990351 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 7.
+
+Arm Pulled: 3
+ [0 0 1 2 0 ]       [1 1 1 0 1 ]       [0.993543 0.993543 0.998383 1 0.993543 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 8.
+
+Arm Pulled: 3
+ [0 0 1 3 0 ]       [1 1 1 0 1 ]       [0.99537 0.99537 0.998841 1 0.99537 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 9.
+
+Arm Pulled: 3
+ [0 0 1 3 0 ]       [1 1 1 1 1 ]       [0.996512 0.996512 0.999127 0.999632 0.996512 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 10.
+
+Arm Pulled: 2
+ [0 0 1 3 0 ]       [1 1 1 2 1 ]       [0.997272 0.997272 0.999318 0.990145 0.997272 ]
+Sending action 2.
+Received reward 1.
+Num of  pulls 11.
+
+Arm Pulled: 2
+ [0 0 2 3 0 ]       [1 1 1 2 1 ]       [0.997804 0.997804 0.999674 0.991172 0.997804 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 12.
+
+Arm Pulled: 0
+ [0 0 2 3 0 ]       [1 1 2 2 1 ]       [0.998191 0.998191 0.989252 0.991998 0.998191 ]
+Sending action 0.
+Received reward 1.
+Num of  pulls 13.
+
+Arm Pulled: 0
+ [1 0 2 3 0 ]       [1 1 2 2 1 ]       [0.99962 0.998482 0.990163 0.992676 0.998482 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 14.
+
+Arm Pulled: 1
+ [1 0 2 3 0 ]       [2 1 2 2 1 ]       [0.986056 0.998706 0.990924 0.993244 0.998706 ]
+Sending action 1.
+Received reward 1.
+Num of  pulls 15.
+
+Arm Pulled: 1
+ [1 1 2 3 0 ]       [2 1 2 2 1 ]       [0.987047 0.99972 0.99157 0.993725 0.998882 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 16.
+
+Arm Pulled: 4
+ [1 1 2 3 0 ]       [2 2 2 2 1 ]       [0.987898 0.987898 0.992125 0.994139 0.999023 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 17.
+
+Arm Pulled: 3
+ [1 1 2 3 0 ]       [2 2 2 2 2 ]       [0.988639 0.988639 0.992608 0.994499 0.970651 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 18.
+
+Arm Pulled: 3
+ [1 1 2 4 0 ]       [2 2 2 2 2 ]       [0.989288 0.989288 0.993031 0.995865 0.97232 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 19.
+
+Arm Pulled: 3
+ [1 1 2 5 0 ]       [2 2 2 2 2 ]       [0.989863 0.989863 0.993406 0.996745 0.973797 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 20.
+
+Arm Pulled: 3
+ [1 1 2 6 0 ]       [2 2 2 2 2 ]       [0.990375 0.990375 0.993739 0.997354 0.975113 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 21.
+
+Arm Pulled: 2
+ [1 1 2 6 0 ]       [2 2 2 3 2 ]       [0.990834 0.990834 0.994038 0.987462 0.976294 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 22.
+
+Arm Pulled: 0
+ [1 1 2 6 0 ]       [2 2 3 3 2 ]       [0.991248 0.991248 0.973461 0.98785 0.97736 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 23.
+
+Arm Pulled: 1
+ [1 1 2 6 0 ]       [3 2 3 3 2 ]       [0.962806 0.991623 0.974235 0.988207 0.978327 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 24.
+
+Arm Pulled: 3
+ [1 1 2 6 0 ]       [3 3 3 3 2 ]       [0.963834 0.963834 0.974951 0.988537 0.979208 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 25.
+
+Arm Pulled: 4
+ [1 1 2 6 0 ]       [3 3 3 4 2 ]       [0.964787 0.964787 0.975614 0.972601 0.980015 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 26.
+
+Arm Pulled: 2
+ [1 1 2 6 0 ]       [3 3 3 4 3 ]       [0.965673 0.965673 0.97623 0.973135 0.928187 ]
+Sending action 2.
+Received reward 1.
+Num of  pulls 27.
+
+Arm Pulled: 2
+ [1 1 3 6 0 ]       [3 3 3 4 3 ]       [0.9665 0.9665 0.982156 0.973637 0.929897 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 28.
+
+Arm Pulled: 3
+ [1 1 3 6 0 ]       [3 3 4 4 3 ]       [0.967274 0.967274 0.958151 0.974109 0.931497 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 29.
+
+Arm Pulled: 0
+ [1 1 3 6 0 ]       [3 3 4 5 3 ]       [0.967999 0.967999 0.958864 0.954099 0.932999 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 30.
+
+Arm Pulled: 1
+ [1 1 3 6 0 ]       [4 3 4 5 3 ]       [0.929382 0.968682 0.959538 0.954718 0.934413 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 31.
+
+Arm Pulled: 2
+ [1 1 3 6 0 ]       [4 4 4 5 3 ]       [0.930482 0.930482 0.960176 0.955305 0.935745 ]
+Sending action 2.
+Received reward 1.
+Num of  pulls 32.
+
+Arm Pulled: 2
+ [1 1 4 6 0 ]       [4 4 4 5 3 ]       [0.931525 0.931525 0.967508 0.955863 0.937004 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 33.
+
+Arm Pulled: 3
+ [1 1 4 6 0 ]       [4 4 5 5 3 ]       [0.932516 0.932516 0.942708 0.956395 0.938196 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 34.
+
+Arm Pulled: 3
+ [1 1 4 7 0 ]       [4 4 5 5 3 ]       [0.933461 0.933461 0.943371 0.961473 0.939326 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 35.
+
+Arm Pulled: 2
+ [1 1 4 7 0 ]       [4 4 5 6 3 ]       [0.934361 0.934361 0.944004 0.941272 0.940399 ]
+Sending action 2.
+Received reward 1.
+Num of  pulls 36.
+
+Arm Pulled: 2
+ [1 1 5 7 0 ]       [4 4 5 6 3 ]       [0.935222 0.935222 0.95215 0.941816 0.94142 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 37.
+
+Arm Pulled: 4
+ [1 1 5 7 0 ]       [4 4 6 6 3 ]       [0.936044 0.936044 0.92776 0.942339 0.942393 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 38.
+
+Arm Pulled: 3
+ [1 1 5 7 0 ]       [4 4 6 6 4 ]       [0.936832 0.936832 0.928384 0.942841 0.883838 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 39.
+
+Arm Pulled: 0
+ [1 1 5 7 0 ]       [4 4 6 7 4 ]       [0.937588 0.937588 0.928985 0.921225 0.885204 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 40.
+
+Arm Pulled: 1
+ [1 1 5 7 0 ]       [5 4 6 7 4 ]       [0.895597 0.938313 0.929564 0.921788 0.886516 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 41.
+
+Arm Pulled: 2
+ [1 1 5 7 0 ]       [5 5 6 7 4 ]       [0.896548 0.896548 0.930122 0.922332 0.887778 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 42.
+
+Arm Pulled: 3
+ [1 1 5 7 0 ]       [5 5 7 7 4 ]       [0.897466 0.897466 0.90451 0.922857 0.888992 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 43.
+
+Arm Pulled: 2
+ [1 1 5 7 0 ]       [5 5 7 8 4 ]       [0.898351 0.898351 0.905132 0.90056 0.890161 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 44.
+
+Arm Pulled: 3
+ [1 1 5 7 0 ]       [5 5 8 8 4 ]       [0.899205 0.899205 0.878955 0.901126 0.891288 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 45.
+
+Arm Pulled: 0
+ [1 1 5 7 0 ]       [5 5 8 9 4 ]       [0.900032 0.900032 0.879619 0.878563 0.892376 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 46.
+
+Arm Pulled: 1
+ [1 1 5 7 0 ]       [6 5 8 9 4 ]       [0.857067 0.900831 0.880263 0.879154 0.893427 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 47.
+
+Arm Pulled: 4
+ [1 1 5 7 0 ]       [6 6 8 9 4 ]       [0.858003 0.858003 0.880888 0.879729 0.894443 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 48.
+
+Arm Pulled: 4
+ [1 1 5 7 1 ]       [6 6 8 9 4 ]       [0.85891 0.85891 0.881495 0.880287 0.94323 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 49.
+
+Arm Pulled: 4
+ [1 1 5 7 1 ]       [6 6 8 9 5 ]       [0.859791 0.859791 0.882084 0.880829 0.903081 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 50.
+
+Arm Pulled: 2
+ [1 1 5 7 1 ]       [6 6 8 9 6 ]       [0.860647 0.860647 0.882657 0.881357 0.860647 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 51.
+
+Arm Pulled: 3
+ [1 1 5 7 1 ]       [6 6 9 9 6 ]       [0.861479 0.861479 0.856781 0.88187 0.861479 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 52.
+
+Arm Pulled: 3
+ [1 1 5 8 1 ]       [6 6 9 9 6 ]       [0.862287 0.862287 0.857379 0.891758 0.862287 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 53.
+
+Arm Pulled: 3
+ [1 1 5 8 1 ]       [6 6 9 10 6 ]       [0.863074 0.863074 0.857962 0.870814 0.863074 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 54.
+
+Arm Pulled: 0
+ [1 1 5 8 1 ]       [6 6 9 11 6 ]       [0.863841 0.863841 0.858531 0.850041 0.863841 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 55.
+
+Arm Pulled: 1
+ [1 1 5 8 1 ]       [7 6 9 11 6 ]       [0.822199 0.864587 0.859085 0.850542 0.864587 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 56.
+
+Arm Pulled: 4
+ [1 1 5 8 1 ]       [7 7 9 11 6 ]       [0.823022 0.823022 0.859626 0.851032 0.865315 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 57.
+
+Arm Pulled: 2
+ [1 1 5 8 1 ]       [7 7 9 11 7 ]       [0.823825 0.823825 0.860155 0.85151 0.823825 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 58.
+
+Arm Pulled: 3
+ [1 1 5 8 1 ]       [7 7 10 11 7 ]       [0.824609 0.824609 0.834851 0.851977 0.824609 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 59.
+
+Arm Pulled: 2
+ [1 1 5 8 1 ]       [7 7 10 12 7 ]       [0.825375 0.825375 0.835394 0.831626 0.825375 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 60.
+
+Arm Pulled: 3
+ [1 1 5 8 1 ]       [7 7 11 12 7 ]       [0.826123 0.826123 0.810741 0.832098 0.826123 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 61.
+
+Arm Pulled: 0
+ [1 1 5 8 1 ]       [7 7 11 13 7 ]       [0.826854 0.826854 0.811291 0.812224 0.826854 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 62.
+
+Arm Pulled: 1
+ [1 1 5 8 1 ]       [8 7 11 13 7 ]       [0.787212 0.827569 0.81183 0.812697 0.827569 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 63.
+
+Arm Pulled: 4
+ [1 1 5 8 1 ]       [8 8 11 13 7 ]       [0.78797 0.78797 0.812357 0.81316 0.828269 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 64.
+
+Arm Pulled: 3
+ [1 1 5 8 1 ]       [8 8 11 13 8 ]       [0.788713 0.788713 0.812873 0.813613 0.788713 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 65.
+
+Arm Pulled: 2
+ [1 1 5 8 1 ]       [8 8 11 14 8 ]       [0.78944 0.78944 0.813379 0.794306 0.78944 ]
+Sending action 2.
+Received reward 1.
+Num of  pulls 66.
+
+Arm Pulled: 2
+ [1 1 6 8 1 ]       [8 8 11 14 8 ]       [0.790153 0.790153 0.830257 0.794758 0.790153 ]
+Sending action 2.
+Received reward 1.
+Num of  pulls 67.
+
+Arm Pulled: 2
+ [1 1 7 8 1 ]       [8 8 11 14 8 ]       [0.790851 0.790851 0.844276 0.795201 0.790851 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 68.
+
+Arm Pulled: 2
+ [1 1 7 8 1 ]       [8 8 12 14 8 ]       [0.791536 0.791536 0.82299 0.795635 0.791536 ]
+Sending action 2.
+Received reward 1.
+Num of  pulls 69.
+
+Arm Pulled: 2
+ [1 1 8 8 1 ]       [8 8 12 14 8 ]       [0.792207 0.792207 0.835933 0.796062 0.792207 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 70.
+
+Arm Pulled: 2
+ [1 1 8 8 1 ]       [8 8 13 14 8 ]       [0.792866 0.792866 0.816155 0.79648 0.792866 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 71.
+
+Arm Pulled: 2
+ [1 1 8 8 1 ]       [8 8 14 14 8 ]       [0.793512 0.793512 0.796892 0.796892 0.793512 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 72.
+
+Arm Pulled: 3
+ [1 1 8 8 1 ]       [8 8 15 14 8 ]       [0.794147 0.794147 0.778199 0.797296 0.794147 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 73.
+
+Arm Pulled: 0
+ [1 1 8 8 1 ]       [8 8 15 15 8 ]       [0.794769 0.794769 0.778608 0.778608 0.794769 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 74.
+
+Arm Pulled: 1
+ [1 1 8 8 1 ]       [9 8 15 15 8 ]       [0.757628 0.795381 0.779009 0.779009 0.795381 ]
+Sending action 1.
+Received reward 1.
+Num of  pulls 75.
+
+Arm Pulled: 1
+ [1 2 8 8 1 ]       [9 8 15 15 8 ]       [0.758263 0.835735 0.779404 0.779404 0.795982 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 76.
+
+Arm Pulled: 1
+ [1 2 8 8 1 ]       [9 9 15 15 8 ]       [0.758887 0.802612 0.779792 0.779792 0.796572 ]
+Sending action 1.
+Received reward 1.
+Num of  pulls 77.
+
+Arm Pulled: 1
+ [1 3 8 8 1 ]       [9 9 15 15 8 ]       [0.7595 0.831834 0.780174 0.780174 0.797152 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 78.
+
+Arm Pulled: 1
+ [1 3 8 8 1 ]       [9 10 15 15 8 ]       [0.760103 0.802794 0.780549 0.780549 0.797722 ]
+Sending action 1.
+Received reward 1.
+Num of  pulls 79.
+
+Arm Pulled: 1
+ [1 4 8 8 1 ]       [9 10 15 15 8 ]       [0.760697 0.826323 0.780919 0.780919 0.798282 ]
+Sending action 1.
+Received reward 1.
+Num of  pulls 80.
+
+Arm Pulled: 1
+ [1 5 8 8 1 ]       [9 10 15 15 8 ]       [0.76128 0.844597 0.781283 0.781283 0.798834 ]
+Sending action 1.
+Received reward 1.
+Num of  pulls 81.
+
+Arm Pulled: 1
+ [1 6 8 8 1 ]       [9 10 15 15 8 ]       [0.761854 0.859284 0.781641 0.781641 0.799376 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 82.
+
+Arm Pulled: 1
+ [1 6 8 8 1 ]       [9 11 15 15 8 ]       [0.762419 0.836522 0.781994 0.781994 0.799909 ]
+Sending action 1.
+Received reward 1.
+Num of  pulls 83.
+
+Arm Pulled: 1
+ [1 7 8 8 1 ]       [9 11 15 15 8 ]       [0.762975 0.849977 0.782341 0.782341 0.800434 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 84.
+
+Arm Pulled: 1
+ [1 7 8 8 1 ]       [9 12 15 15 8 ]       [0.763523 0.828908 0.782683 0.782683 0.800951 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 85.
+
+Arm Pulled: 1
+ [1 7 8 8 1 ]       [9 13 15 15 8 ]       [0.764062 0.808324 0.78302 0.78302 0.80146 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 86.
+
+Arm Pulled: 4
+ [1 7 8 8 1 ]       [9 14 15 15 8 ]       [0.764593 0.788317 0.783352 0.783352 0.801961 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 87.
+
+Arm Pulled: 4
+ [1 7 8 8 2 ]       [9 14 15 15 8 ]       [0.765116 0.788655 0.783679 0.783679 0.841037 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 88.
+
+Arm Pulled: 4
+ [1 7 8 8 2 ]       [9 14 15 15 9 ]       [0.765631 0.788987 0.784002 0.784002 0.808242 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 89.
+
+Arm Pulled: 1
+ [1 7 8 8 2 ]       [9 14 15 15 10 ]       [0.766139 0.789315 0.78432 0.78432 0.776742 ]
+Sending action 1.
+Received reward 1.
+Num of  pulls 90.
+
+Arm Pulled: 1
+ [1 8 8 8 2 ]       [9 14 15 15 10 ]       [0.76664 0.803541 0.784634 0.784634 0.777183 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 91.
+
+Arm Pulled: 1
+ [1 8 8 8 2 ]       [9 15 15 15 10 ]       [0.767133 0.784943 0.784943 0.784943 0.777617 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 92.
+
+Arm Pulled: 2
+ [1 8 8 8 2 ]       [9 16 15 15 10 ]       [0.76762 0.76691 0.785248 0.785248 0.778046 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 93.
+
+Arm Pulled: 3
+ [1 8 8 8 2 ]       [9 16 16 15 10 ]       [0.768099 0.767219 0.767219 0.785549 0.778469 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 94.
+
+Arm Pulled: 4
+ [1 8 8 8 2 ]       [9 16 16 16 10 ]       [0.768573 0.767523 0.767523 0.767523 0.778885 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 95.
+
+Arm Pulled: 4
+ [1 8 8 8 3 ]       [9 16 16 16 10 ]       [0.769039 0.767824 0.767824 0.767824 0.809684 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 96.
+
+Arm Pulled: 4
+ [1 8 8 8 4 ]       [9 16 16 16 10 ]       [0.7695 0.76812 0.76812 0.76812 0.832381 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 97.
+
+Arm Pulled: 4
+ [1 8 8 8 4 ]       [9 16 16 16 11 ]       [0.769954 0.768413 0.768413 0.768413 0.806638 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 98.
+
+Arm Pulled: 4
+ [1 8 8 8 4 ]       [9 16 16 16 12 ]       [0.770402 0.768702 0.768702 0.768702 0.781749 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 99.
+
+Arm Pulled: 0
+ [1 8 8 8 4 ]       [9 16 16 16 13 ]       [0.770845 0.768988 0.768988 0.768988 0.757831 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 100.
+
+Arm Pulled: 1
+ [1 8 8 8 4 ]       [10 16 16 16 13 ]       [0.736346 0.769269 0.769269 0.769269 0.758174 ]
+Sending action 1.
+Received reward 1.
+Num of  pulls 101.
+
+Arm Pulled: 1
+ [1 9 8 8 4 ]       [10 16 16 16 13 ]       [0.736795 0.782852 0.769548 0.769548 0.758513 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 102.
+
+Arm Pulled: 2
+ [1 9 8 8 4 ]       [10 17 16 16 13 ]       [0.737238 0.765988 0.769823 0.769823 0.758847 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 103.
+
+Arm Pulled: 3
+ [1 9 8 8 4 ]       [10 17 17 16 13 ]       [0.737676 0.766251 0.752397 0.770095 0.759177 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 104.
+
+Arm Pulled: 3
+ [1 9 8 9 4 ]       [10 17 17 16 13 ]       [0.738108 0.766512 0.752671 0.783626 0.759504 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 105.
+
+Arm Pulled: 3
+ [1 9 8 10 4 ]       [10 17 17 16 13 ]       [0.738535 0.76677 0.752942 0.795607 0.759826 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 106.
+
+Arm Pulled: 3
+ [1 9 8 11 4 ]       [10 17 17 16 13 ]       [0.738957 0.767024 0.75321 0.806302 0.760145 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 107.
+
+Arm Pulled: 3
+ [1 9 8 12 4 ]       [10 17 17 16 13 ]       [0.739374 0.767276 0.753474 0.815915 0.76046 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 108.
+
+Arm Pulled: 3
+ [1 9 8 12 4 ]       [10 17 17 17 13 ]       [0.739787 0.767525 0.753736 0.800611 0.760771 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 109.
+
+Arm Pulled: 3
+ [1 9 8 13 4 ]       [10 17 17 17 13 ]       [0.740194 0.767771 0.753994 0.809771 0.761079 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 110.
+
+Arm Pulled: 3
+ [1 9 8 13 4 ]       [10 17 17 18 13 ]       [0.740597 0.768014 0.75425 0.795249 0.761383 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 111.
+
+Arm Pulled: 3
+ [1 9 8 13 4 ]       [10 17 17 19 13 ]       [0.740995 0.768255 0.754503 0.781062 0.761684 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 112.
+
+Arm Pulled: 1
+ [1 9 8 13 4 ]       [10 17 17 20 13 ]       [0.741388 0.768493 0.754753 0.767224 0.761981 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 113.
+
+Arm Pulled: 3
+ [1 9 8 13 4 ]       [10 18 17 20 13 ]       [0.741777 0.752163 0.755001 0.767435 0.762276 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 114.
+
+Arm Pulled: 3
+ [1 9 8 14 4 ]       [10 18 17 20 13 ]       [0.742162 0.7524 0.755245 0.776891 0.762567 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 115.
+
+Arm Pulled: 3
+ [1 9 8 14 4 ]       [10 18 17 21 13 ]       [0.742543 0.752635 0.755487 0.763718 0.762854 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 116.
+
+Arm Pulled: 4
+ [1 9 8 14 4 ]       [10 18 17 22 13 ]       [0.742919 0.752867 0.755727 0.750874 0.763139 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 117.
+
+Arm Pulled: 2
+ [1 9 8 14 4 ]       [10 18 17 22 14 ]       [0.743292 0.753097 0.755964 0.751075 0.740311 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 118.
+
+Arm Pulled: 1
+ [1 9 8 14 4 ]       [10 18 18 22 14 ]       [0.74366 0.753324 0.739139 0.751274 0.740597 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 119.
+
+Arm Pulled: 3
+ [1 9 8 14 4 ]       [10 19 18 22 14 ]       [0.744025 0.737514 0.739375 0.75147 0.74088 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 120.
+
+Arm Pulled: 0
+ [1 9 8 14 4 ]       [10 19 18 23 14 ]       [0.744386 0.73774 0.739609 0.738957 0.741159 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 121.
+
+Arm Pulled: 4
+ [1 9 8 14 4 ]       [11 19 18 23 14 ]       [0.712222 0.737964 0.73984 0.739152 0.741436 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 122.
+
+Arm Pulled: 2
+ [1 9 8 14 4 ]       [11 19 18 23 15 ]       [0.712585 0.738185 0.740069 0.739345 0.719621 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 123.
+
+Arm Pulled: 3
+ [1 9 8 14 4 ]       [11 19 19 23 15 ]       [0.712944 0.738405 0.723817 0.739536 0.719898 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 124.
+
+Arm Pulled: 1
+ [1 9 8 14 4 ]       [11 19 19 24 15 ]       [0.7133 0.738622 0.724045 0.727351 0.720171 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 125.
+
+Arm Pulled: 3
+ [1 9 8 14 4 ]       [11 20 19 24 15 ]       [0.713652 0.723324 0.72427 0.72754 0.720442 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 126.
+
+Arm Pulled: 3
+ [1 9 8 15 4 ]       [11 20 19 24 15 ]       [0.714001 0.72354 0.724493 0.737242 0.720711 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 127.
+
+Arm Pulled: 3
+ [1 9 8 16 4 ]       [11 20 19 24 15 ]       [0.714346 0.723754 0.724714 0.746259 0.720976 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 128.
+
+Arm Pulled: 3
+ [1 9 8 16 4 ]       [11 20 19 25 15 ]       [0.714688 0.723965 0.724933 0.734808 0.721239 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 129.
+
+Arm Pulled: 2
+ [1 9 8 16 4 ]       [11 20 19 26 15 ]       [0.715026 0.724175 0.72515 0.723638 0.7215 ]
+Sending action 2.
+Received reward 1.
+Num of  pulls 130.
+
+Arm Pulled: 2
+ [1 9 9 16 4 ]       [11 20 19 26 15 ]       [0.715362 0.724383 0.739883 0.723811 0.721758 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 131.
+
+Arm Pulled: 1
+ [1 9 9 16 4 ]       [11 20 20 26 15 ]       [0.715694 0.724588 0.724588 0.723983 0.722014 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 132.
+
+Arm Pulled: 2
+ [1 9 9 16 4 ]       [11 21 20 26 15 ]       [0.716023 0.709793 0.724792 0.724153 0.722268 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 133.
+
+Arm Pulled: 3
+ [1 9 9 16 4 ]       [11 21 21 26 15 ]       [0.716349 0.709997 0.709997 0.724322 0.722519 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 134.
+
+Arm Pulled: 4
+ [1 9 9 16 4 ]       [11 21 21 27 15 ]       [0.716672 0.710199 0.710199 0.713427 0.722768 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 135.
+
+Arm Pulled: 0
+ [1 9 9 16 4 ]       [11 21 21 27 16 ]       [0.716992 0.7104 0.7104 0.713594 0.701957 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 136.
+
+Arm Pulled: 3
+ [1 9 9 16 4 ]       [12 21 21 27 16 ]       [0.686974 0.710598 0.710598 0.713759 0.702204 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 137.
+
+Arm Pulled: 3
+ [1 9 9 17 4 ]       [12 21 21 27 16 ]       [0.687294 0.710795 0.710795 0.722685 0.70245 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 138.
+
+Arm Pulled: 3
+ [1 9 9 17 4 ]       [12 21 21 28 16 ]       [0.687611 0.71099 0.71099 0.712216 0.702693 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 139.
+
+Arm Pulled: 1
+ [1 9 9 17 4 ]       [12 21 21 29 16 ]       [0.687925 0.711184 0.711184 0.701998 0.702934 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 140.
+
+Arm Pulled: 2
+ [1 9 9 17 4 ]       [12 22 21 29 16 ]       [0.688236 0.696878 0.711376 0.702156 0.703173 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 141.
+
+Arm Pulled: 4
+ [1 9 9 17 4 ]       [12 22 22 29 16 ]       [0.688545 0.697069 0.697069 0.702312 0.70341 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 142.
+
+Arm Pulled: 3
+ [1 9 9 17 4 ]       [12 22 22 29 17 ]       [0.688851 0.697259 0.697259 0.702467 0.683558 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 143.
+
+Arm Pulled: 3
+ [1 9 9 18 4 ]       [12 22 22 29 17 ]       [0.689154 0.697448 0.697448 0.711119 0.683793 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 144.
+
+Arm Pulled: 3
+ [1 9 9 19 4 ]       [12 22 22 29 17 ]       [0.689455 0.697634 0.697634 0.719268 0.684026 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 145.
+
+Arm Pulled: 3
+ [1 9 9 20 4 ]       [12 22 22 29 17 ]       [0.689753 0.69782 0.69782 0.726959 0.684257 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 146.
+
+Arm Pulled: 3
+ [1 9 9 21 4 ]       [12 22 22 29 17 ]       [0.690049 0.698003 0.698003 0.73423 0.684487 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 147.
+
+Arm Pulled: 3
+ [1 9 9 21 4 ]       [12 22 22 30 17 ]       [0.690342 0.698186 0.698186 0.724775 0.684714 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 148.
+
+Arm Pulled: 3
+ [1 9 9 22 4 ]       [12 22 22 30 17 ]       [0.690633 0.698367 0.698367 0.731789 0.68494 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 149.
+
+Arm Pulled: 3
+ [1 9 9 22 4 ]       [12 22 22 31 17 ]       [0.690921 0.698546 0.698546 0.722651 0.685164 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 150.
+
+Arm Pulled: 3
+ [1 9 9 23 4 ]       [12 22 22 31 17 ]       [0.691207 0.698724 0.698724 0.729427 0.685386 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 151.
+
+Arm Pulled: 3
+ [1 9 9 24 4 ]       [12 22 22 31 17 ]       [0.691491 0.6989 0.6989 0.735874 0.685606 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 152.
+
+Arm Pulled: 3
+ [1 9 9 24 4 ]       [12 22 22 32 17 ]       [0.691772 0.699075 0.699075 0.727141 0.685824 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 153.
+
+Arm Pulled: 3
+ [1 9 9 24 4 ]       [12 22 22 33 17 ]       [0.692051 0.699249 0.699249 0.71858 0.686041 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 154.
+
+Arm Pulled: 3
+ [1 9 9 24 4 ]       [12 22 22 34 17 ]       [0.692328 0.699422 0.699422 0.710186 0.686256 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 155.
+
+Arm Pulled: 3
+ [1 9 9 24 4 ]       [12 22 22 35 17 ]       [0.692603 0.699593 0.699593 0.701959 0.68647 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 156.
+
+Arm Pulled: 1
+ [1 9 9 24 4 ]       [12 22 22 36 17 ]       [0.692876 0.699763 0.699763 0.693895 0.686682 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 157.
+
+Arm Pulled: 2
+ [1 9 9 24 4 ]       [12 23 22 36 17 ]       [0.693146 0.685927 0.699931 0.694017 0.686892 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 158.
+
+Arm Pulled: 3
+ [1 9 9 24 4 ]       [12 23 23 36 17 ]       [0.693415 0.686095 0.686095 0.694139 0.6871 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 159.
+
+Arm Pulled: 0
+ [1 9 9 24 4 ]       [12 23 23 37 17 ]       [0.693681 0.686262 0.686262 0.686234 0.687307 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 160.
+
+Arm Pulled: 4
+ [1 9 9 24 4 ]       [13 23 23 37 17 ]       [0.665674 0.686427 0.686427 0.686354 0.687513 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 161.
+
+Arm Pulled: 4
+ [1 9 9 24 5 ]       [13 23 23 37 17 ]       [0.665939 0.686592 0.686592 0.686474 0.711787 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 162.
+
+Arm Pulled: 4
+ [1 9 9 24 6 ]       [13 23 23 37 17 ]       [0.666202 0.686755 0.686755 0.686592 0.732214 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 163.
+
+Arm Pulled: 4
+ [1 9 9 24 6 ]       [13 23 23 37 18 ]       [0.666463 0.686917 0.686917 0.68671 0.714374 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 164.
+
+Arm Pulled: 4
+ [1 9 9 24 6 ]       [13 23 23 37 19 ]       [0.666722 0.687078 0.687078 0.686827 0.697218 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 165.
+
+Arm Pulled: 1
+ [1 9 9 24 6 ]       [13 23 23 37 20 ]       [0.666979 0.687238 0.687238 0.686943 0.680732 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 166.
+
+Arm Pulled: 2
+ [1 9 9 24 6 ]       [13 24 23 37 20 ]       [0.667235 0.673857 0.687397 0.687058 0.68091 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 167.
+
+Arm Pulled: 3
+ [1 9 9 24 6 ]       [13 24 24 37 20 ]       [0.667488 0.674016 0.674016 0.687172 0.681087 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 168.
+
+Arm Pulled: 4
+ [1 9 9 24 6 ]       [13 24 24 38 20 ]       [0.66774 0.674173 0.674173 0.67942 0.681263 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 169.
+
+Arm Pulled: 3
+ [1 9 9 24 6 ]       [13 24 24 38 21 ]       [0.66799 0.674329 0.674329 0.679533 0.665425 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 170.
+
+Arm Pulled: 3
+ [1 9 9 25 6 ]       [13 24 24 38 21 ]       [0.668238 0.674483 0.674483 0.686256 0.665599 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 171.
+
+Arm Pulled: 3
+ [1 9 9 25 6 ]       [13 24 24 39 21 ]       [0.668485 0.674637 0.674637 0.678722 0.665772 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 172.
+
+Arm Pulled: 3
+ [1 9 9 26 6 ]       [13 24 24 39 21 ]       [0.668729 0.67479 0.67479 0.685226 0.665943 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 173.
+
+Arm Pulled: 3
+ [1 9 9 27 6 ]       [13 24 24 39 21 ]       [0.668972 0.674942 0.674942 0.691466 0.666113 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 174.
+
+Arm Pulled: 3
+ [1 9 9 27 6 ]       [13 24 24 40 21 ]       [0.669213 0.675092 0.675092 0.6842 0.666283 ]
+Sending action 3.
+Received reward 1.
+Num of  pulls 175.
+
+Arm Pulled: 3
+ [1 9 9 28 6 ]       [13 24 24 40 21 ]       [0.669453 0.675242 0.675242 0.690253 0.666451 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 176.
+
+Arm Pulled: 3
+ [1 9 9 28 6 ]       [13 24 24 41 21 ]       [0.669691 0.675391 0.675391 0.683179 0.666617 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 177.
+
+Arm Pulled: 3
+ [1 9 9 28 6 ]       [13 24 24 42 21 ]       [0.669927 0.675538 0.675538 0.676232 0.666783 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 178.
+
+Arm Pulled: 1
+ [1 9 9 28 6 ]       [13 24 24 43 21 ]       [0.670162 0.675685 0.675685 0.66941 0.666948 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 179.
+
+Arm Pulled: 2
+ [1 9 9 28 6 ]       [13 25 24 43 21 ]       [0.670395 0.662741 0.675831 0.66951 0.667111 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 180.
+
+Arm Pulled: 0
+ [1 9 9 28 6 ]       [13 25 25 43 21 ]       [0.670627 0.662886 0.662886 0.66961 0.667274 ]
+Sending action 0.
+Received reward 0.
+Num of  pulls 181.
+
+Arm Pulled: 3
+ [1 9 9 28 6 ]       [14 25 25 43 21 ]       [0.644463 0.663031 0.663031 0.669708 0.667435 ]
+Sending action 3.
+Received reward 0.
+Num of  pulls 182.
+
+Arm Pulled: 4
+ [1 9 9 28 6 ]       [14 25 25 44 21 ]       [0.644692 0.663174 0.663174 0.663008 0.667596 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 183.
+
+Arm Pulled: 4
+ [1 9 9 28 7 ]       [14 25 25 44 21 ]       [0.644921 0.663316 0.663316 0.663106 0.686742 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 184.
+
+Arm Pulled: 4
+ [1 9 9 28 8 ]       [14 25 25 44 21 ]       [0.645147 0.663458 0.663458 0.663203 0.703614 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 185.
+
+Arm Pulled: 4
+ [1 9 9 28 9 ]       [14 25 25 44 21 ]       [0.645372 0.663598 0.663598 0.663299 0.718631 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 186.
+
+Arm Pulled: 4
+ [1 9 9 28 10 ]       [14 25 25 44 21 ]       [0.645596 0.663738 0.663738 0.663395 0.732108 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 187.
+
+Arm Pulled: 4
+ [1 9 9 28 11 ]       [14 25 25 44 21 ]       [0.645818 0.663877 0.663877 0.66349 0.744286 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 188.
+
+Arm Pulled: 4
+ [1 9 9 28 12 ]       [14 25 25 44 21 ]       [0.646039 0.664015 0.664015 0.663585 0.755357 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 189.
+
+Arm Pulled: 4
+ [1 9 9 28 12 ]       [14 25 25 44 22 ]       [0.646259 0.664152 0.664152 0.663679 0.74199 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 190.
+
+Arm Pulled: 4
+ [1 9 9 28 13 ]       [14 25 25 44 22 ]       [0.646477 0.664288 0.664288 0.663773 0.752406 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 191.
+
+Arm Pulled: 4
+ [1 9 9 28 14 ]       [14 25 25 44 22 ]       [0.646693 0.664423 0.664423 0.663866 0.761983 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 192.
+
+Arm Pulled: 4
+ [1 9 9 28 15 ]       [14 25 25 44 22 ]       [0.646909 0.664558 0.664558 0.663958 0.770824 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 193.
+
+Arm Pulled: 4
+ [1 9 9 28 16 ]       [14 25 25 44 22 ]       [0.647123 0.664691 0.664691 0.66405 0.779014 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 194.
+
+Arm Pulled: 4
+ [1 9 9 28 16 ]       [14 25 25 44 23 ]       [0.647335 0.664824 0.664824 0.664141 0.767059 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 195.
+
+Arm Pulled: 4
+ [1 9 9 28 16 ]       [14 25 25 44 24 ]       [0.647547 0.664957 0.664957 0.664232 0.755368 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 196.
+
+Arm Pulled: 4
+ [1 9 9 28 16 ]       [14 25 25 44 25 ]       [0.647757 0.665088 0.665088 0.664323 0.743943 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 197.
+
+Arm Pulled: 4
+ [1 9 9 28 17 ]       [14 25 25 44 25 ]       [0.647966 0.665218 0.665218 0.664412 0.752236 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 198.
+
+Arm Pulled: 4
+ [1 9 9 28 18 ]       [14 25 25 44 25 ]       [0.648173 0.665348 0.665348 0.664501 0.759994 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 199.
+
+Arm Pulled: 4
+ [1 9 9 28 19 ]       [14 25 25 44 25 ]       [0.64838 0.665477 0.665477 0.66459 0.767269 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 200.
+
+Arm Pulled: 4
+ [1 9 9 28 19 ]       [14 25 25 44 26 ]       [0.648585 0.665605 0.665605 0.664678 0.756676 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 201.
+
+Arm Pulled: 4
+ [1 9 9 28 20 ]       [14 25 25 44 26 ]       [0.648789 0.665733 0.665733 0.664766 0.763695 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 202.
+
+Arm Pulled: 4
+ [1 9 9 28 21 ]       [14 25 25 44 26 ]       [0.648991 0.66586 0.66586 0.664853 0.770312 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 203.
+
+Arm Pulled: 4
+ [1 9 9 28 21 ]       [14 25 25 44 27 ]       [0.649193 0.665986 0.665986 0.66494 0.760272 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 204.
+
+Arm Pulled: 4
+ [1 9 9 28 21 ]       [14 25 25 44 28 ]       [0.649393 0.666111 0.666111 0.665026 0.750427 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 205.
+
+Arm Pulled: 4
+ [1 9 9 28 22 ]       [14 25 25 44 28 ]       [0.649592 0.666236 0.666236 0.665111 0.75699 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 206.
+
+Arm Pulled: 4
+ [1 9 9 28 23 ]       [14 25 25 44 28 ]       [0.64979 0.666359 0.666359 0.665197 0.763209 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 207.
+
+Arm Pulled: 4
+ [1 9 9 28 24 ]       [14 25 25 44 28 ]       [0.649987 0.666483 0.666483 0.665281 0.769112 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 208.
+
+Arm Pulled: 4
+ [1 9 9 28 25 ]       [14 25 25 44 28 ]       [0.650183 0.666605 0.666605 0.665366 0.774724 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 209.
+
+Arm Pulled: 4
+ [1 9 9 28 26 ]       [14 25 25 44 28 ]       [0.650377 0.666727 0.666727 0.665449 0.780066 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 210.
+
+Arm Pulled: 4
+ [1 9 9 28 26 ]       [14 25 25 44 29 ]       [0.650571 0.666848 0.666848 0.665533 0.771095 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 211.
+
+Arm Pulled: 4
+ [1 9 9 28 26 ]       [14 25 25 44 30 ]       [0.650763 0.666969 0.666969 0.665616 0.762276 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 212.
+
+Arm Pulled: 4
+ [1 9 9 28 26 ]       [14 25 25 44 31 ]       [0.650954 0.667088 0.667088 0.665698 0.75361 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 213.
+
+Arm Pulled: 4
+ [1 9 9 28 26 ]       [14 25 25 44 32 ]       [0.651145 0.667207 0.667207 0.66578 0.745096 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 214.
+
+Arm Pulled: 4
+ [1 9 9 28 26 ]       [14 25 25 44 33 ]       [0.651334 0.667326 0.667326 0.665861 0.736734 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 215.
+
+Arm Pulled: 4
+ [1 9 9 28 27 ]       [14 25 25 44 33 ]       [0.651522 0.667444 0.667444 0.665942 0.742394 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 216.
+
+Arm Pulled: 4
+ [1 9 9 28 28 ]       [14 25 25 44 33 ]       [0.651709 0.667561 0.667561 0.666023 0.747812 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 217.
+
+Arm Pulled: 4
+ [1 9 9 28 29 ]       [14 25 25 44 33 ]       [0.651895 0.667677 0.667677 0.666103 0.753003 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 218.
+
+Arm Pulled: 4
+ [1 9 9 28 29 ]       [14 25 25 44 34 ]       [0.65208 0.667793 0.667793 0.666183 0.745072 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 219.
+
+Arm Pulled: 4
+ [1 9 9 28 29 ]       [14 25 25 44 35 ]       [0.652264 0.667909 0.667909 0.666262 0.737273 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 220.
+
+Arm Pulled: 4
+ [1 9 9 28 30 ]       [14 25 25 44 35 ]       [0.652447 0.668023 0.668023 0.666341 0.742429 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 221.
+
+Arm Pulled: 4
+ [1 9 9 28 30 ]       [14 25 25 44 36 ]       [0.652629 0.668138 0.668138 0.66642 0.734842 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 222.
+
+Arm Pulled: 4
+ [1 9 9 28 30 ]       [14 25 25 44 37 ]       [0.65281 0.668251 0.668251 0.666498 0.727382 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 223.
+
+Arm Pulled: 4
+ [1 9 9 28 31 ]       [14 25 25 44 37 ]       [0.652991 0.668364 0.668364 0.666576 0.732492 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 224.
+
+Arm Pulled: 4
+ [1 9 9 28 31 ]       [14 25 25 44 38 ]       [0.65317 0.668476 0.668476 0.666653 0.725229 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 225.
+
+Arm Pulled: 4
+ [1 9 9 28 31 ]       [14 25 25 44 39 ]       [0.653348 0.668588 0.668588 0.66673 0.718084 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 226.
+
+Arm Pulled: 4
+ [1 9 9 28 31 ]       [14 25 25 44 40 ]       [0.653525 0.668699 0.668699 0.666806 0.711057 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 227.
+
+Arm Pulled: 4
+ [1 9 9 28 32 ]       [14 25 25 44 40 ]       [0.653702 0.66881 0.66881 0.666883 0.716178 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 228.
+
+Arm Pulled: 4
+ [1 9 9 28 32 ]       [14 25 25 44 41 ]       [0.653877 0.66892 0.66892 0.666958 0.709327 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 229.
+
+Arm Pulled: 4
+ [1 9 9 28 33 ]       [14 25 25 44 41 ]       [0.654051 0.669029 0.669029 0.667034 0.714326 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 230.
+
+Arm Pulled: 4
+ [1 9 9 28 33 ]       [14 25 25 44 42 ]       [0.654225 0.669138 0.669138 0.667109 0.707643 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 231.
+
+Arm Pulled: 4
+ [1 9 9 28 34 ]       [14 25 25 44 42 ]       [0.654398 0.669246 0.669246 0.667183 0.712525 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 232.
+
+Arm Pulled: 4
+ [1 9 9 28 35 ]       [14 25 25 44 42 ]       [0.65457 0.669354 0.669354 0.667257 0.717244 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 233.
+
+Arm Pulled: 4
+ [1 9 9 28 36 ]       [14 25 25 44 42 ]       [0.654741 0.669461 0.669461 0.667331 0.721808 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 234.
+
+Arm Pulled: 4
+ [1 9 9 28 36 ]       [14 25 25 44 43 ]       [0.654911 0.669568 0.669568 0.667405 0.71539 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 235.
+
+Arm Pulled: 4
+ [1 9 9 28 37 ]       [14 25 25 44 43 ]       [0.65508 0.669674 0.669674 0.667478 0.719859 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 236.
+
+Arm Pulled: 4
+ [1 9 9 28 38 ]       [14 25 25 44 43 ]       [0.655248 0.66978 0.66978 0.667551 0.724188 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 237.
+
+Arm Pulled: 4
+ [1 9 9 28 38 ]       [14 25 25 44 44 ]       [0.655416 0.669885 0.669885 0.667623 0.717967 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 238.
+
+Arm Pulled: 4
+ [1 9 9 28 39 ]       [14 25 25 44 44 ]       [0.655582 0.66999 0.66999 0.667695 0.722211 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 239.
+
+Arm Pulled: 4
+ [1 9 9 28 39 ]       [14 25 25 44 45 ]       [0.655748 0.670094 0.670094 0.667767 0.716127 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 240.
+
+Arm Pulled: 4
+ [1 9 9 28 39 ]       [14 25 25 44 46 ]       [0.655913 0.670198 0.670198 0.667838 0.71013 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 241.
+
+Arm Pulled: 4
+ [1 9 9 28 40 ]       [14 25 25 44 46 ]       [0.656078 0.670301 0.670301 0.667909 0.714338 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 242.
+
+Arm Pulled: 4
+ [1 9 9 28 41 ]       [14 25 25 44 46 ]       [0.656241 0.670403 0.670403 0.66798 0.718424 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 243.
+
+Arm Pulled: 4
+ [1 9 9 28 42 ]       [14 25 25 44 46 ]       [0.656404 0.670505 0.670505 0.66805 0.722393 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 244.
+
+Arm Pulled: 4
+ [1 9 9 28 42 ]       [14 25 25 44 47 ]       [0.656565 0.670607 0.670607 0.66812 0.716608 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 245.
+
+Arm Pulled: 4
+ [1 9 9 28 43 ]       [14 25 25 44 47 ]       [0.656727 0.670708 0.670708 0.66819 0.720508 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 246.
+
+Arm Pulled: 4
+ [1 9 9 28 44 ]       [14 25 25 44 47 ]       [0.656887 0.670809 0.670809 0.66826 0.7243 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 247.
+
+Arm Pulled: 4
+ [1 9 9 28 44 ]       [14 25 25 44 48 ]       [0.657046 0.670909 0.670909 0.668329 0.718674 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 248.
+
+Arm Pulled: 4
+ [1 9 9 28 44 ]       [14 25 25 44 49 ]       [0.657205 0.671009 0.671009 0.668397 0.713122 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 249.
+
+Arm Pulled: 4
+ [1 9 9 28 44 ]       [14 25 25 44 50 ]       [0.657363 0.671108 0.671108 0.668466 0.707644 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 250.
+
+Arm Pulled: 4
+ [1 9 9 28 45 ]       [14 25 25 44 50 ]       [0.65752 0.671207 0.671207 0.668534 0.711447 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 251.
+
+Arm Pulled: 4
+ [1 9 9 28 46 ]       [14 25 25 44 50 ]       [0.657677 0.671305 0.671305 0.668602 0.715151 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 252.
+
+Arm Pulled: 4
+ [1 9 9 28 46 ]       [14 25 25 44 51 ]       [0.657832 0.671403 0.671403 0.668669 0.709815 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 253.
+
+Arm Pulled: 4
+ [1 9 9 28 47 ]       [14 25 25 44 51 ]       [0.657987 0.671501 0.671501 0.668736 0.713458 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 254.
+
+Arm Pulled: 4
+ [1 9 9 28 48 ]       [14 25 25 44 51 ]       [0.658142 0.671598 0.671598 0.668803 0.71701 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 255.
+
+Arm Pulled: 4
+ [1 9 9 28 49 ]       [14 25 25 44 51 ]       [0.658295 0.671694 0.671694 0.66887 0.720475 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 256.
+
+Arm Pulled: 4
+ [1 9 9 28 49 ]       [14 25 25 44 52 ]       [0.658448 0.67179 0.67179 0.668936 0.715305 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 257.
+
+Arm Pulled: 4
+ [1 9 9 28 49 ]       [14 25 25 44 53 ]       [0.6586 0.671886 0.671886 0.669002 0.710199 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 258.
+
+Arm Pulled: 4
+ [1 9 9 28 50 ]       [14 25 25 44 53 ]       [0.658752 0.671981 0.671981 0.669068 0.713643 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 259.
+
+Arm Pulled: 4
+ [1 9 9 28 50 ]       [14 25 25 44 54 ]       [0.658903 0.672076 0.672076 0.669133 0.70863 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 260.
+
+Arm Pulled: 4
+ [1 9 9 28 51 ]       [14 25 25 44 54 ]       [0.659053 0.67217 0.67217 0.669198 0.712022 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 261.
+
+Arm Pulled: 4
+ [1 9 9 28 52 ]       [14 25 25 44 54 ]       [0.659202 0.672264 0.672264 0.669263 0.715334 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 262.
+
+Arm Pulled: 4
+ [1 9 9 28 52 ]       [14 25 25 44 55 ]       [0.659351 0.672358 0.672358 0.669327 0.71044 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 263.
+
+Arm Pulled: 4
+ [1 9 9 28 53 ]       [14 25 25 44 55 ]       [0.659499 0.672451 0.672451 0.669392 0.713705 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 264.
+
+Arm Pulled: 4
+ [1 9 9 28 53 ]       [14 25 25 44 56 ]       [0.659646 0.672544 0.672544 0.669456 0.708896 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 265.
+
+Arm Pulled: 4
+ [1 9 9 28 53 ]       [14 25 25 44 57 ]       [0.659793 0.672636 0.672636 0.669519 0.704143 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 266.
+
+Arm Pulled: 4
+ [1 9 9 28 53 ]       [14 25 25 44 58 ]       [0.659939 0.672728 0.672728 0.669583 0.699446 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 267.
+
+Arm Pulled: 4
+ [1 9 9 28 54 ]       [14 25 25 44 58 ]       [0.660084 0.67282 0.67282 0.669646 0.702716 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 268.
+
+Arm Pulled: 4
+ [1 9 9 28 54 ]       [14 25 25 44 59 ]       [0.660229 0.672911 0.672911 0.669709 0.698099 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 269.
+
+Arm Pulled: 4
+ [1 9 9 28 54 ]       [14 25 25 44 60 ]       [0.660373 0.673001 0.673001 0.669771 0.693534 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 270.
+
+Arm Pulled: 4
+ [1 9 9 28 55 ]       [14 25 25 44 60 ]       [0.660517 0.673092 0.673092 0.669834 0.696781 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 271.
+
+Arm Pulled: 4
+ [1 9 9 28 55 ]       [14 25 25 44 61 ]       [0.66066 0.673182 0.673182 0.669896 0.692292 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 272.
+
+Arm Pulled: 4
+ [1 9 9 28 56 ]       [14 25 25 44 61 ]       [0.660802 0.673271 0.673271 0.669957 0.695492 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 273.
+
+Arm Pulled: 4
+ [1 9 9 28 56 ]       [14 25 25 44 62 ]       [0.660944 0.67336 0.67336 0.670019 0.691075 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 274.
+
+Arm Pulled: 4
+ [1 9 9 28 57 ]       [14 25 25 44 62 ]       [0.661085 0.673449 0.673449 0.67008 0.69423 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 275.
+
+Arm Pulled: 4
+ [1 9 9 28 58 ]       [14 25 25 44 62 ]       [0.661225 0.673538 0.673538 0.670141 0.69732 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 276.
+
+Arm Pulled: 4
+ [1 9 9 28 58 ]       [14 25 25 44 63 ]       [0.661365 0.673626 0.673626 0.670202 0.692995 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 277.
+
+Arm Pulled: 4
+ [1 9 9 28 59 ]       [14 25 25 44 63 ]       [0.661504 0.673713 0.673713 0.670263 0.696043 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 278.
+
+Arm Pulled: 4
+ [1 9 9 28 59 ]       [14 25 25 44 64 ]       [0.661643 0.673801 0.673801 0.670323 0.691785 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 279.
+
+Arm Pulled: 4
+ [1 9 9 28 60 ]       [14 25 25 44 64 ]       [0.661781 0.673888 0.673888 0.670383 0.694793 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 280.
+
+Arm Pulled: 4
+ [1 9 9 28 61 ]       [14 25 25 44 64 ]       [0.661918 0.673974 0.673974 0.670443 0.697742 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 281.
+
+Arm Pulled: 4
+ [1 9 9 28 62 ]       [14 25 25 44 64 ]       [0.662055 0.674061 0.674061 0.670502 0.700634 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 282.
+
+Arm Pulled: 4
+ [1 9 9 28 62 ]       [14 25 25 44 65 ]       [0.662191 0.674146 0.674146 0.670561 0.69648 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 283.
+
+Arm Pulled: 4
+ [1 9 9 28 62 ]       [14 25 25 44 66 ]       [0.662327 0.674232 0.674232 0.670621 0.692369 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 284.
+
+Arm Pulled: 4
+ [1 9 9 28 63 ]       [14 25 25 44 66 ]       [0.662462 0.674317 0.674317 0.670679 0.695243 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 285.
+
+Arm Pulled: 4
+ [1 9 9 28 63 ]       [14 25 25 44 67 ]       [0.662597 0.674402 0.674402 0.670738 0.691194 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 286.
+
+Arm Pulled: 4
+ [1 9 9 28 64 ]       [14 25 25 44 67 ]       [0.662731 0.674487 0.674487 0.670796 0.694032 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 287.
+
+Arm Pulled: 4
+ [1 9 9 28 65 ]       [14 25 25 44 67 ]       [0.662864 0.674571 0.674571 0.670854 0.696818 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 288.
+
+Arm Pulled: 4
+ [1 9 9 28 66 ]       [14 25 25 44 67 ]       [0.662997 0.674654 0.674654 0.670912 0.699553 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 289.
+
+Arm Pulled: 4
+ [1 9 9 28 66 ]       [14 25 25 44 68 ]       [0.66313 0.674738 0.674738 0.67097 0.695597 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 290.
+
+Arm Pulled: 4
+ [1 9 9 28 67 ]       [14 25 25 44 68 ]       [0.663262 0.674821 0.674821 0.671027 0.6983 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 291.
+
+Arm Pulled: 4
+ [1 9 9 28 67 ]       [14 25 25 44 69 ]       [0.663393 0.674904 0.674904 0.671084 0.694401 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 292.
+
+Arm Pulled: 4
+ [1 9 9 28 68 ]       [14 25 25 44 69 ]       [0.663524 0.674986 0.674986 0.671141 0.697072 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 293.
+
+Arm Pulled: 4
+ [1 9 9 28 69 ]       [14 25 25 44 69 ]       [0.663654 0.675069 0.675069 0.671198 0.699697 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 294.
+
+Arm Pulled: 4
+ [1 9 9 28 70 ]       [14 25 25 44 69 ]       [0.663784 0.67515 0.67515 0.671255 0.702277 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 295.
+
+Arm Pulled: 4
+ [1 9 9 28 71 ]       [14 25 25 44 69 ]       [0.663913 0.675232 0.675232 0.671311 0.704812 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 296.
+
+Arm Pulled: 4
+ [1 9 9 28 71 ]       [14 25 25 44 70 ]       [0.664042 0.675313 0.675313 0.671367 0.701015 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 297.
+
+Arm Pulled: 4
+ [1 9 9 28 72 ]       [14 25 25 44 70 ]       [0.66417 0.675394 0.675394 0.671423 0.703523 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 298.
+
+Arm Pulled: 4
+ [1 9 9 28 72 ]       [14 25 25 44 71 ]       [0.664298 0.675475 0.675475 0.671479 0.699778 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 299.
+
+Arm Pulled: 4
+ [1 9 9 28 72 ]       [14 25 25 44 72 ]       [0.664425 0.675555 0.675555 0.671534 0.696069 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 300.
+
+Arm Pulled: 4
+ [1 9 9 28 73 ]       [14 25 25 44 72 ]       [0.664552 0.675635 0.675635 0.671589 0.698565 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 301.
+
+Arm Pulled: 4
+ [1 9 9 28 73 ]       [14 25 25 44 73 ]       [0.664678 0.675714 0.675714 0.671644 0.694906 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 302.
+
+Arm Pulled: 4
+ [1 9 9 28 74 ]       [14 25 25 44 73 ]       [0.664803 0.675794 0.675794 0.671699 0.697375 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 303.
+
+Arm Pulled: 4
+ [1 9 9 28 75 ]       [14 25 25 44 73 ]       [0.664929 0.675873 0.675873 0.671754 0.699805 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 304.
+
+Arm Pulled: 4
+ [1 9 9 28 75 ]       [14 25 25 44 74 ]       [0.665053 0.675951 0.675951 0.671808 0.696208 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 305.
+
+Arm Pulled: 4
+ [1 9 9 28 76 ]       [14 25 25 44 74 ]       [0.665178 0.67603 0.67603 0.671862 0.698613 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 306.
+
+Arm Pulled: 4
+ [1 9 9 28 77 ]       [14 25 25 44 74 ]       [0.665301 0.676108 0.676108 0.671916 0.70098 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 307.
+
+Arm Pulled: 4
+ [1 9 9 28 78 ]       [14 25 25 44 74 ]       [0.665425 0.676186 0.676186 0.67197 0.70331 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 308.
+
+Arm Pulled: 4
+ [1 9 9 28 78 ]       [14 25 25 44 75 ]       [0.665547 0.676263 0.676263 0.672024 0.699786 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 309.
+
+Arm Pulled: 4
+ [1 9 9 28 78 ]       [14 25 25 44 76 ]       [0.66567 0.676341 0.676341 0.672077 0.696293 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 310.
+
+Arm Pulled: 4
+ [1 9 9 28 78 ]       [14 25 25 44 77 ]       [0.665792 0.676418 0.676418 0.67213 0.692832 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 311.
+
+Arm Pulled: 4
+ [1 9 9 28 79 ]       [14 25 25 44 77 ]       [0.665913 0.676494 0.676494 0.672183 0.695165 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 312.
+
+Arm Pulled: 4
+ [1 9 9 28 80 ]       [14 25 25 44 77 ]       [0.666034 0.676571 0.676571 0.672236 0.697463 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 313.
+
+Arm Pulled: 4
+ [1 9 9 28 81 ]       [14 25 25 44 77 ]       [0.666154 0.676647 0.676647 0.672289 0.699726 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 314.
+
+Arm Pulled: 4
+ [1 9 9 28 81 ]       [14 25 25 44 78 ]       [0.666275 0.676723 0.676723 0.672341 0.696333 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 315.
+
+Arm Pulled: 4
+ [1 9 9 28 82 ]       [14 25 25 44 78 ]       [0.666394 0.676798 0.676798 0.672393 0.698574 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 316.
+
+Arm Pulled: 4
+ [1 9 9 28 82 ]       [14 25 25 44 79 ]       [0.666513 0.676873 0.676873 0.672445 0.695223 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 317.
+
+Arm Pulled: 4
+ [1 9 9 28 83 ]       [14 25 25 44 79 ]       [0.666632 0.676948 0.676948 0.672497 0.697443 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 318.
+
+Arm Pulled: 4
+ [1 9 9 28 84 ]       [14 25 25 44 79 ]       [0.66675 0.677023 0.677023 0.672549 0.699631 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 319.
+
+Arm Pulled: 4
+ [1 9 9 28 85 ]       [14 25 25 44 79 ]       [0.666868 0.677098 0.677098 0.6726 0.701788 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 320.
+
+Arm Pulled: 4
+ [1 9 9 28 85 ]       [14 25 25 44 80 ]       [0.666985 0.677172 0.677172 0.672651 0.6985 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 321.
+
+Arm Pulled: 4
+ [1 9 9 28 85 ]       [14 25 25 44 81 ]       [0.667102 0.677246 0.677246 0.672703 0.69524 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 322.
+
+Arm Pulled: 4
+ [1 9 9 28 85 ]       [14 25 25 44 82 ]       [0.667219 0.677319 0.677319 0.672753 0.692007 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 323.
+
+Arm Pulled: 4
+ [1 9 9 28 86 ]       [14 25 25 44 82 ]       [0.667335 0.677393 0.677393 0.672804 0.694166 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 324.
+
+Arm Pulled: 4
+ [1 9 9 28 87 ]       [14 25 25 44 82 ]       [0.667451 0.677466 0.677466 0.672855 0.696296 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 325.
+
+Arm Pulled: 4
+ [1 9 9 28 88 ]       [14 25 25 44 82 ]       [0.667566 0.677539 0.677539 0.672905 0.698395 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 326.
+
+Arm Pulled: 4
+ [1 9 9 28 88 ]       [14 25 25 44 83 ]       [0.667681 0.677611 0.677611 0.672955 0.695221 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 327.
+
+Arm Pulled: 4
+ [1 9 9 28 89 ]       [14 25 25 44 83 ]       [0.667795 0.677684 0.677684 0.673005 0.697303 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 328.
+
+Arm Pulled: 4
+ [1 9 9 28 90 ]       [14 25 25 44 83 ]       [0.667909 0.677756 0.677756 0.673055 0.699356 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 329.
+
+Arm Pulled: 4
+ [1 9 9 28 90 ]       [14 25 25 44 84 ]       [0.668023 0.677828 0.677828 0.673105 0.696229 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 330.
+
+Arm Pulled: 4
+ [1 9 9 28 90 ]       [14 25 25 44 85 ]       [0.668136 0.677899 0.677899 0.673154 0.693127 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 331.
+
+Arm Pulled: 4
+ [1 9 9 28 91 ]       [14 25 25 44 85 ]       [0.668249 0.67797 0.67797 0.673204 0.695172 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 332.
+
+Arm Pulled: 4
+ [1 9 9 28 91 ]       [14 25 25 44 86 ]       [0.668361 0.678042 0.678042 0.673253 0.692105 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 333.
+
+Arm Pulled: 4
+ [1 9 9 28 91 ]       [14 25 25 44 87 ]       [0.668473 0.678112 0.678112 0.673302 0.689062 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 334.
+
+Arm Pulled: 4
+ [1 9 9 28 91 ]       [14 25 25 44 88 ]       [0.668585 0.678183 0.678183 0.673351 0.686044 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 335.
+
+Arm Pulled: 4
+ [1 9 9 28 92 ]       [14 25 25 44 88 ]       [0.668696 0.678253 0.678253 0.673399 0.688091 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 336.
+
+Arm Pulled: 4
+ [1 9 9 28 92 ]       [14 25 25 44 89 ]       [0.668807 0.678324 0.678324 0.673448 0.685105 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 337.
+
+Arm Pulled: 4
+ [1 9 9 28 93 ]       [14 25 25 44 89 ]       [0.668917 0.678393 0.678393 0.673496 0.687135 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 338.
+
+Arm Pulled: 4
+ [1 9 9 28 94 ]       [14 25 25 44 89 ]       [0.669027 0.678463 0.678463 0.673544 0.689138 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 339.
+
+Arm Pulled: 4
+ [1 9 9 28 94 ]       [14 25 25 44 90 ]       [0.669137 0.678532 0.678532 0.673592 0.686194 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 340.
+
+Arm Pulled: 4
+ [1 9 9 28 95 ]       [14 25 25 44 90 ]       [0.669246 0.678602 0.678602 0.67364 0.68818 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 341.
+
+Arm Pulled: 4
+ [1 9 9 28 96 ]       [14 25 25 44 90 ]       [0.669355 0.67867 0.67867 0.673688 0.690142 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 342.
+
+Arm Pulled: 4
+ [1 9 9 28 97 ]       [14 25 25 44 90 ]       [0.669464 0.678739 0.678739 0.673736 0.692078 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 343.
+
+Arm Pulled: 4
+ [1 9 9 28 98 ]       [14 25 25 44 90 ]       [0.669572 0.678808 0.678808 0.673783 0.693991 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 344.
+
+Arm Pulled: 4
+ [1 9 9 28 99 ]       [14 25 25 44 90 ]       [0.66968 0.678876 0.678876 0.67383 0.69588 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 345.
+
+Arm Pulled: 4
+ [1 9 9 28 100 ]       [14 25 25 44 90 ]       [0.669787 0.678944 0.678944 0.673877 0.697745 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 346.
+
+Arm Pulled: 4
+ [1 9 9 28 101 ]       [14 25 25 44 90 ]       [0.669894 0.679012 0.679012 0.673924 0.699588 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 347.
+
+Arm Pulled: 4
+ [1 9 9 28 101 ]       [14 25 25 44 91 ]       [0.670001 0.679079 0.679079 0.673971 0.696727 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 348.
+
+Arm Pulled: 4
+ [1 9 9 28 101 ]       [14 25 25 44 92 ]       [0.670107 0.679147 0.679147 0.674017 0.693887 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 349.
+
+Arm Pulled: 4
+ [1 9 9 28 101 ]       [14 25 25 44 93 ]       [0.670213 0.679214 0.679214 0.674064 0.691067 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 350.
+
+Arm Pulled: 4
+ [1 9 9 28 102 ]       [14 25 25 44 93 ]       [0.670319 0.679281 0.679281 0.67411 0.692913 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 351.
+
+Arm Pulled: 4
+ [1 9 9 28 103 ]       [14 25 25 44 93 ]       [0.670424 0.679347 0.679347 0.674156 0.694736 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 352.
+
+Arm Pulled: 4
+ [1 9 9 28 103 ]       [14 25 25 44 94 ]       [0.670529 0.679414 0.679414 0.674202 0.691954 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 353.
+
+Arm Pulled: 4
+ [1 9 9 28 103 ]       [14 25 25 44 95 ]       [0.670634 0.67948 0.67948 0.674248 0.689191 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 354.
+
+Arm Pulled: 4
+ [1 9 9 28 104 ]       [14 25 25 44 95 ]       [0.670738 0.679546 0.679546 0.674294 0.691009 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 355.
+
+Arm Pulled: 4
+ [1 9 9 28 105 ]       [14 25 25 44 95 ]       [0.670842 0.679612 0.679612 0.674339 0.692805 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 356.
+
+Arm Pulled: 4
+ [1 9 9 28 106 ]       [14 25 25 44 95 ]       [0.670945 0.679677 0.679677 0.674385 0.694581 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 357.
+
+Arm Pulled: 4
+ [1 9 9 28 107 ]       [14 25 25 44 95 ]       [0.671048 0.679743 0.679743 0.67443 0.696336 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 358.
+
+Arm Pulled: 4
+ [1 9 9 28 108 ]       [14 25 25 44 95 ]       [0.671151 0.679808 0.679808 0.674475 0.69807 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 359.
+
+Arm Pulled: 4
+ [1 9 9 28 109 ]       [14 25 25 44 95 ]       [0.671254 0.679873 0.679873 0.67452 0.699785 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 360.
+
+Arm Pulled: 4
+ [1 9 9 28 110 ]       [14 25 25 44 95 ]       [0.671356 0.679938 0.679938 0.674565 0.701481 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 361.
+
+Arm Pulled: 4
+ [1 9 9 28 110 ]       [14 25 25 44 96 ]       [0.671458 0.680002 0.680002 0.67461 0.698792 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 362.
+
+Arm Pulled: 4
+ [1 9 9 28 111 ]       [14 25 25 44 96 ]       [0.671559 0.680066 0.680066 0.674654 0.700476 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 363.
+
+Arm Pulled: 4
+ [1 9 9 28 111 ]       [14 25 25 44 97 ]       [0.67166 0.680131 0.680131 0.674699 0.697813 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 364.
+
+Arm Pulled: 4
+ [1 9 9 28 112 ]       [14 25 25 44 97 ]       [0.671761 0.680194 0.680194 0.674743 0.699486 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 365.
+
+Arm Pulled: 4
+ [1 9 9 28 112 ]       [14 25 25 44 98 ]       [0.671862 0.680258 0.680258 0.674787 0.696848 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 366.
+
+Arm Pulled: 4
+ [1 9 9 28 112 ]       [14 25 25 44 99 ]       [0.671962 0.680322 0.680322 0.674831 0.694229 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 367.
+
+Arm Pulled: 4
+ [1 9 9 28 113 ]       [14 25 25 44 99 ]       [0.672062 0.680385 0.680385 0.674875 0.695897 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 368.
+
+Arm Pulled: 4
+ [1 9 9 28 113 ]       [14 25 25 44 100 ]       [0.672162 0.680448 0.680448 0.674919 0.693302 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 369.
+
+Arm Pulled: 4
+ [1 9 9 28 114 ]       [14 25 25 44 100 ]       [0.672261 0.680511 0.680511 0.674962 0.69496 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 370.
+
+Arm Pulled: 4
+ [1 9 9 28 114 ]       [14 25 25 44 101 ]       [0.67236 0.680574 0.680574 0.675006 0.692389 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 371.
+
+Arm Pulled: 4
+ [1 9 9 28 115 ]       [14 25 25 44 101 ]       [0.672458 0.680636 0.680636 0.675049 0.694035 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 372.
+
+Arm Pulled: 4
+ [1 9 9 28 115 ]       [14 25 25 44 102 ]       [0.672557 0.680699 0.680699 0.675092 0.691489 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 373.
+
+Arm Pulled: 4
+ [1 9 9 28 116 ]       [14 25 25 44 102 ]       [0.672655 0.680761 0.680761 0.675135 0.693124 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 374.
+
+Arm Pulled: 4
+ [1 9 9 28 116 ]       [14 25 25 44 103 ]       [0.672752 0.680823 0.680823 0.675178 0.690601 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 375.
+
+Arm Pulled: 4
+ [1 9 9 28 117 ]       [14 25 25 44 103 ]       [0.67285 0.680885 0.680885 0.675221 0.692225 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 376.
+
+Arm Pulled: 4
+ [1 9 9 28 118 ]       [14 25 25 44 103 ]       [0.672947 0.680946 0.680946 0.675264 0.693832 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 377.
+
+Arm Pulled: 4
+ [1 9 9 28 119 ]       [14 25 25 44 103 ]       [0.673044 0.681008 0.681008 0.675306 0.695423 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 378.
+
+Arm Pulled: 4
+ [1 9 9 28 120 ]       [14 25 25 44 103 ]       [0.67314 0.681069 0.681069 0.675348 0.696997 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 379.
+
+Arm Pulled: 4
+ [1 9 9 28 120 ]       [14 25 25 44 104 ]       [0.673236 0.68113 0.68113 0.675391 0.694516 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 380.
+
+Arm Pulled: 4
+ [1 9 9 28 120 ]       [14 25 25 44 105 ]       [0.673332 0.681191 0.681191 0.675433 0.692051 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 381.
+
+Arm Pulled: 4
+ [1 9 9 28 120 ]       [14 25 25 44 106 ]       [0.673428 0.681251 0.681251 0.675475 0.689602 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 382.
+
+Arm Pulled: 4
+ [1 9 9 28 121 ]       [14 25 25 44 106 ]       [0.673523 0.681312 0.681312 0.675517 0.691178 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 383.
+
+Arm Pulled: 4
+ [1 9 9 28 122 ]       [14 25 25 44 106 ]       [0.673618 0.681372 0.681372 0.675559 0.692738 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 384.
+
+Arm Pulled: 4
+ [1 9 9 28 123 ]       [14 25 25 44 106 ]       [0.673713 0.681432 0.681432 0.6756 0.694283 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 385.
+
+Arm Pulled: 4
+ [1 9 9 28 123 ]       [14 25 25 44 107 ]       [0.673807 0.681492 0.681492 0.675642 0.691867 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 386.
+
+Arm Pulled: 4
+ [1 9 9 28 123 ]       [14 25 25 44 108 ]       [0.673901 0.681552 0.681552 0.675683 0.689467 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 387.
+
+Arm Pulled: 4
+ [1 9 9 28 124 ]       [14 25 25 44 108 ]       [0.673995 0.681611 0.681611 0.675724 0.691008 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 388.
+
+Arm Pulled: 4
+ [1 9 9 28 124 ]       [14 25 25 44 109 ]       [0.674089 0.681671 0.681671 0.675766 0.688628 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 389.
+
+Arm Pulled: 4
+ [1 9 9 28 124 ]       [14 25 25 44 110 ]       [0.674182 0.68173 0.68173 0.675807 0.686264 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 390.
+
+Arm Pulled: 4
+ [1 9 9 28 124 ]       [14 25 25 44 111 ]       [0.674275 0.681789 0.681789 0.675848 0.683915 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 391.
+
+Arm Pulled: 4
+ [1 9 9 28 125 ]       [14 25 25 44 111 ]       [0.674368 0.681848 0.681848 0.675888 0.685457 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 392.
+
+Arm Pulled: 4
+ [1 9 9 28 126 ]       [14 25 25 44 111 ]       [0.67446 0.681907 0.681907 0.675929 0.686984 ]
+Sending action 4.
+Received reward 1.
+Num of  pulls 393.
+
+Arm Pulled: 4
+ [1 9 9 28 127 ]       [14 25 25 44 111 ]       [0.674552 0.681965 0.681965 0.67597 0.688496 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 394.
+
+Arm Pulled: 4
+ [1 9 9 28 127 ]       [14 25 25 44 112 ]       [0.674644 0.682023 0.682023 0.67601 0.686177 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 395.
+
+Arm Pulled: 4
+ [1 9 9 28 127 ]       [14 25 25 44 113 ]       [0.674736 0.682082 0.682082 0.67605 0.683873 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 396.
+
+Arm Pulled: 1
+ [1 9 9 28 127 ]       [14 25 25 44 114 ]       [0.674827 0.68214 0.68214 0.676091 0.681582 ]
+Sending action 1.
+Received reward 0.
+Num of  pulls 397.
+
+Arm Pulled: 2
+ [1 9 9 28 127 ]       [14 26 25 44 114 ]       [0.674918 0.669584 0.682197 0.676131 0.681605 ]
+Sending action 2.
+Received reward 0.
+Num of  pulls 398.
+
+Arm Pulled: 4
+ [1 9 9 28 127 ]       [14 26 26 44 114 ]       [0.675009 0.669642 0.669642 0.676171 0.681627 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 399.
+
+Arm Pulled: 4
+ [1 9 9 28 127 ]       [14 26 26 44 115 ]       [0.6751 0.6697 0.6697 0.676211 0.67935 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 400.
+
+Arm Pulled: 4
+ [1 9 9 28 127 ]       [14 26 26 44 116 ]       [0.67519 0.669757 0.669757 0.67625 0.677088 ]
+Sending action 4.
+Received reward 0.
+Num of  pulls 400.
+
+Arm Pulled: 3
+ [1 9 9 28 127 ]       [14 26 26 44 117 ]       [0.67519 0.669757 0.669757 0.67625 0.674818 ]
+Sending action 3.
+Terminating.
+174
